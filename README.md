@@ -19,4 +19,4 @@ A techlist for testing :bug: :bar_chart: :clipboard:
 
 ### To generate coverage
 
-``yarn coverage``
+``yarn coverage or npm coverage``
